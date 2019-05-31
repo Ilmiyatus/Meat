@@ -59,4 +59,3 @@ Java
 
 This application is licensed under the MIT license
 
-Copyright (c) 2017 **Megan Warnock**
